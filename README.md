@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Kamna
 
 # 💫 About Me:
-🔭 I’m currently working on Simple and Creative ways of telling stories through data<br>🌱 I’m currently learning Python Machine Learning and Statistics<br>💬 Ask me about - Excel, SQL, Power BI, Python and its Libraries(NumPy, Pandas, Matplotlib, Seaborn & Plotly)  
+🔭 I’m currently working on Simple and Creative ways of telling stories through data<br>🌱 I’m currently learning Python Machine Learning and Statistics<br>💬 Ask me about - Excel, SQL, Power BI, Python and its Libraries(NumPy, Pandas, Matplotlib, Seaborn)  
 
 
 ## 🌐 Socials:
